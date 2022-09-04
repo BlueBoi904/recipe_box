@@ -4,7 +4,7 @@
   "description": "recipe_box web application created with Javascript, HTML, CSS, and scss",
   "main": "script.js",
   "scripts": {
-    "watch": "sass --watch styles.scss styles.css"
+    "watch": "sass --watch app/sass:public/stylesheets"
   },
   "repository": {
     "type": "git",
